@@ -1,10 +1,10 @@
 <h1 align="center"> Hi 👋, I'm Stevy </h1>
 
-### About me : 
+### <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/about_me.gif" width = 4.5% > About me : 
 
   - :books: I’m currently a software engineer student 
   - 🌱 I’m currently learning go and python
-  - 💬 Ask me about whatever you want, I like to help peoples
+  - 💬 Ask me about whatever you want, I would be happy to help you
 
 
 
