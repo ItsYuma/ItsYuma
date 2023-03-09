@@ -1,6 +1,6 @@
-<h1 align="center"> Hi 👋, I'm Stevy </h1>
+<h1 align="center"> Hi 👋 , I'm Stevy </h1>
 
-### <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/about_me.gif" width = 4.5% > About me : 
+### <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/about_me.gif" width = 4.5% >  About me : 
 
   - :books: I’m currently a software engineer student 
   - 🌱 I’m currently learning go and python
