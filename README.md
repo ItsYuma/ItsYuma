@@ -1,4 +1,21 @@
-### Hi there 👋
+<h1 align="center"> Hi 👋, I'm Stevy </h1>
+
+### About me : 
+
+  - :books: I’m currently a software engineer student 
+  - 🌱 I’m currently learning go and python
+  - 💬 Ask me about whatever you want, I like to help peoples
+
+
+
+
+
+
+<!--<p align="center">
+  <a href="https://www.data-card-for-spotify.com/card?user_id=stevynjn">
+    <img src="https://www.data-card-for-spotify.com/api/card?user_id=stevynjn&hide_recents=true&custom_title=Yuma's%20Spotify" alt="Data Card for Spotify">
+  </a>
+</p>-->  
 
 <!--
 **ItsYuma/ItsYuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
