@@ -10,7 +10,7 @@
   <div>
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/rust-logo-512x512.png" title="Rustlang" alt="Rustlang" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   </div>
