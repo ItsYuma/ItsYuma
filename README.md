@@ -3,7 +3,7 @@
 ### <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/about_me.gif" width = 4.5% >  About me : 
 
   - :books: I’m currently a software engineer student 
-  - 🌱 I’m actually learning the blockchain developement throught Rust and Solidity
+  - 🌱 I’m actually learning blockchain's developement throught Rust and Solidity
   - 💬 Ask me about whatever you want, I would be happy to help you
   
   ### 👨‍💻  Languages :
