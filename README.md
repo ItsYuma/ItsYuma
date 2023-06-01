@@ -13,8 +13,8 @@
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/rust-logo-512x512.png" title="Rustlang" alt="Rustlang" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/solidity-plain.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  </div>
+    <!--<img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  </div>-->
   
   ### :hammer_and_wrench:  Frameworks and tools :
   <div>
