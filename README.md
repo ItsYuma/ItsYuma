@@ -21,6 +21,7 @@
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/dot-net-original.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/jetbrains-original.svg" title="Jetbrain" alt="Jetbrain" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
