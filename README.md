@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 , I'm Stevy </h1>
 
-### <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/about_me.gif" width = 4.5% >  About me : 
+<img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/about_me.gif" width = 4.5% >  About me : 
 
   - :books: I’m currently a software engineer student 
   - 🌱 I’m actually learning rust and expanding my knowledge about backend and low level programming languages
@@ -19,6 +19,7 @@
   ### :hammer_and_wrench:  Frameworks and tools :
   <div>
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/flask-original" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/dot-net-original.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/jetbrains-original.svg" title="Jetbrain" alt="Jetbrain" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
