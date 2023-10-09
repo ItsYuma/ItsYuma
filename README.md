@@ -13,18 +13,16 @@
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/rust-logo-512x512.png" title="Rustlang" alt="Rustlang" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <!--<img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/solidity-plain.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;-->
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   </div>
   
   ### :hammer_and_wrench:  Frameworks and tools :
   <div>
-    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/dot-net-original.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/jetbrains-original.svg" title="Jetbrain" alt="Jetbrain" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
   </div
   
