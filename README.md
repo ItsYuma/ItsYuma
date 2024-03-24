@@ -18,8 +18,7 @@
   
   ### :hammer_and_wrench:  Frameworks and tools :
   <div>
-    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/react-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/dot-net-original.svg" title=".net" alt=".net" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/jetbrains-original.svg" title="Jetbrain" alt="Jetbrain" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
