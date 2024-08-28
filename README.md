@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/about_me.gif" width = 4.5% >  About me : 
 
-  - :books: I’m currently a software engineer student 
+  - :books: I’m currently a software engineer doing c++ 
   - 🌱 I’m actually learning rust and expanding my knowledge about backend and low level programming languages
   - 💬 Ask me about whatever you want, I would be happy to help you
   
