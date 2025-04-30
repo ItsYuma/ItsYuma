@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋 , I'm Stevy </h1>
+<h1 align="center"> Hi 👋 , I'm Yuma </h1>
 
 <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/about_me.gif" width = 4.5% >  About me : 
 
@@ -8,9 +8,8 @@
   
   ### 👨‍💻  Languages :
   <div>
-    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/ts.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/rust-logo-512x512.png" title="Rustlang" alt="Rustlang" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
     <img src="https://github.com/ItsYuma/ItsYuma/blob/main/images/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   </div>
